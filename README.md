@@ -11,7 +11,7 @@ The purpose of this software is to explore the Rust language and gain hands-on e
 
 ## Demo
 
-Check out this software demo video: [https://youtu.be/5vToeLVsDx4] for a 1 minute demonstration of the software running.
+Check out this software demo video: https://youtu.be/5vToeLVsDx4 for a 1 minute demonstration of the software running.
 
 ## Development Environment
 
