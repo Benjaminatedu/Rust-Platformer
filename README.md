@@ -4,7 +4,6 @@ A Simple Rust Game
 
 ## Overview
 
-{Important! Do not mention that this is a college assignment in this section. Instead, talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 This project is a simple game developed using the Rust programming language. The game allows the player to control a square on the screen, rotate it, and shoot bullets at enemy squares. The objective is to destroy as many enemies as possible while avoiding collisions.
 
@@ -12,7 +11,7 @@ The purpose of this software is to explore the Rust language and gain hands-on e
 
 ## Demo
 
-Check out the [software demo video](http://youtube.link.goes.here) for a 4-5 minute demonstration of the software running and a walkthrough of the code. The focus of the demo is to share what I learned about the Rust language syntax.
+Check out the [software demo video](http://youtube.link.goes.here) for a 1 minute demonstration of the software running.
 
 ## Development Environment
 
